@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/projectsunshine/static/js/main.56abc28e.js",
+    "main.js": "/projectsunshine/static/js/main.b4028c35.js",
     "index.html": "/projectsunshine/index.html",
-    "main.56abc28e.js.map": "/projectsunshine/static/js/main.56abc28e.js.map"
+    "main.b4028c35.js.map": "/projectsunshine/static/js/main.b4028c35.js.map"
   },
   "entrypoints": [
-    "static/js/main.56abc28e.js"
+    "static/js/main.b4028c35.js"
   ]
 }
